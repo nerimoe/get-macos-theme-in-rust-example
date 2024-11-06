@@ -1,6 +1,7 @@
 [package]
-name = "macos_get_theme-rs"
+name = "get_macos_theme_example"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+dark-light = "1.1.1"
