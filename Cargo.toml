@@ -1,0 +1,6 @@
+[package]
+name = "macos_get_theme-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
